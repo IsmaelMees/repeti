@@ -2,7 +2,7 @@ Implementar um sistema que usuário entre com 6 valore em um array, depois entre
 
 Instale o Dev++; Sistema operacional windows; Desenvolvido em C++ Autor: Ismael Data: 10-12-2021
 
-  Clase e variaveis
+  Classe e variaveis
       class valores{
       int i, j, k=0;
       int arrayA[6], arrayB[6], arrayC[12], *arrayD;
